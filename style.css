@@ -287,9 +287,11 @@ body {
             .dl_box_link{
                 width: 100%;
                 text-decoration: none;
-                color: rgb(0, 0, 0);
             }
             .dl_box_link:visited{
+                color: rgb(0, 0, 0);
+            }
+            .dl_box_link p{
                 color: rgb(0, 0, 0);
             }
             .dl_box_content{
